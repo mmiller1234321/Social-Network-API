@@ -7,6 +7,7 @@ A back end for a social media app. API routes provide functionality to add, upda
 
 ## Walkthrough
 
+Social-Network-API\images\SocialNetworkAPI.gif
 
 ## Installation
 
